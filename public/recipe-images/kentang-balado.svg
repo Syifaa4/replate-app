@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f3e3d4"/><stop offset="1" stop-color="#d7b49d"/></linearGradient><linearGradient id="potato" x2="0" y2="1"><stop stop-color="#e7a34f"/><stop offset="1" stop-color="#bf542f"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/><ellipse cx="400" cy="276" rx="285" ry="174" fill="#774d3b" opacity=".2"/><ellipse cx="400" cy="250" rx="285" ry="170" fill="#fffaf1"/><ellipse cx="400" cy="247" rx="225" ry="122" fill="#a94d36"/>
+  <g fill="url(#potato)" stroke="#f2c16e" stroke-width="5"><path d="m249 211 41-32 47 21-5 40-46 15-37-19z"/><path d="m355 170 43-31 45 20-3 40-47 17-39-18z"/><path d="m436 223 45-31 43 23-5 40-45 15-39-19z"/><path d="m302 278 43-31 46 22-4 39-48 16-38-20z"/><path d="m430 292 42-32 45 20-5 41-46 15-38-19z"/></g>
+  <g fill="#e44836"><path d="M303 166c-16-30 7-42 21-19 14-23 32-11 17 11 31-1 32 19 5 21z"/><path d="M520 267c-15-27 7-38 19-17 13-21 29-10 16 10 28-1 29 17 4 19z"/></g>
+  <g fill="#578145"><path d="M344 151c-16-19-4-28 7-15 9-15 20-8 11 6 18-2 19 12 2 13z"/></g>
+</svg>

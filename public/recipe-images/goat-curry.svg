@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f3dfbf"/><stop offset="1" stop-color="#d7b083"/></linearGradient><linearGradient id="curry" x2="0" y2="1"><stop stop-color="#df9b45"/><stop offset="1" stop-color="#a94f28"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/><ellipse cx="400" cy="277" rx="250" ry="145" fill="#76533a" opacity=".22"/><path d="M165 205h470l-44 157c-17 60-365 60-382 0z" fill="#f9f3e6"/><ellipse cx="400" cy="205" rx="235" ry="87" fill="#fffaf0"/><ellipse cx="400" cy="210" rx="198" ry="61" fill="url(#curry)"/>
+  <g fill="#855032" stroke="#f0c06e" stroke-width="5"><path d="M280 191c18-26 55-24 69 1l-7 30-39 8-27-16z"/><path d="M376 222c15-30 53-34 72-9l-3 31-41 15-28-17z"/><path d="M471 184c20-24 55-16 62 12l-13 27-40 2-20-20z"/></g>
+  <g fill="#f4d27b"><circle cx="335" cy="187" r="7"/><circle cx="450" cy="205" r="8"/><circle cx="388" cy="172" r="7"/></g><g fill="#438044"><path d="M365 163c-22-24-6-36 8-19 11-20 25-10 12 7 25-3 26 15 3 16z"/><path d="M511 239c-20-21-4-31 8-16 10-18 22-9 11 7 22-2 22 13 3 14z"/></g>
+</svg>

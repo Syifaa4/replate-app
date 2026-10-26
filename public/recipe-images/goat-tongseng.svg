@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f2e1cf"/><stop offset="1" stop-color="#d8b29a"/></linearGradient><linearGradient id="stew" x2="0" y2="1"><stop stop-color="#c9793c"/><stop offset="1" stop-color="#8e3e27"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/><path d="M166 205h468l-44 164c-16 57-365 57-382 0z" fill="#fffaf0"/><ellipse cx="400" cy="205" rx="235" ry="87" fill="#fbf4e7"/><ellipse cx="400" cy="211" rx="198" ry="62" fill="url(#stew)"/>
+  <g fill="#805039" stroke="#db9e61" stroke-width="5"><path d="M264 194c18-27 55-27 70 0l-8 29-41 7-28-17z"/><path d="M371 221c18-29 57-27 72 1l-7 28-42 7-29-17z"/><path d="M475 187c17-23 48-19 59 4l-10 28-36 4-22-18z"/></g>
+  <g fill="#e9d9bd"><path d="m295 250 58-13 10 12-61 18z"/><path d="m421 174 58-12 11 13-61 17z"/><path d="m486 257 56-15 12 13-62 19z"/></g>
+  <g fill="#d64f36"><circle cx="339" cy="184" r="12"/><circle cx="520" cy="199" r="11"/></g><g fill="#4e8147"><path d="M386 161c-19-22-5-32 8-17 10-17 22-9 12 7 21-3 22 13 2 14z"/></g>
+</svg>

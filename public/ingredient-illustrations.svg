@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8DBB70" />
+      <stop offset="1" stop-color="#39764F" />
+    </linearGradient>
+    <linearGradient id="leafLight" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B5D889" />
+      <stop offset="1" stop-color="#60935D" />
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F47A5C" />
+      <stop offset="1" stop-color="#B83F36" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F4D77D" />
+      <stop offset="1" stop-color="#D49C43" />
+    </linearGradient>
+    <linearGradient id="potato" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D6B77D" />
+      <stop offset="1" stop-color="#9C7044" />
+    </linearGradient>
+  </defs>
+
+  <symbol id="spring-onions" viewBox="0 0 160 120">
+    <path d="M70 92C65 60 49 32 38 13c21 15 39 34 44 72M79 91c-5-37 2-62 15-84 7 26 7 55 1 84M88 92c7-32 26-55 43-70-5 27-16 52-31 73" fill="none" stroke="url(#leaf)" stroke-linecap="round" stroke-width="9"/>
+    <path d="M57 82c9 14 14 22 23 29 7-9 11-18 14-29l-7-2-3 12-4-14-7 2 3 15-9-15z" fill="#F1E8CC" stroke="#D6D0B7" stroke-width="2"/>
+    <path d="M80 104v-18M89 104l2-18" stroke="#89AA69" stroke-width="2"/>
+    <path d="M39 20c10 13 19 28 25 43M99 18c-8 18-12 35-13 50M126 27c-13 13-21 26-27 40" fill="none" stroke="#C1D99A" stroke-linecap="round" stroke-width="2.5" opacity=".8"/>
+  </symbol>
+
+  <symbol id="potatoes" viewBox="0 0 160 120">
+    <ellipse cx="55" cy="70" rx="34" ry="23" transform="rotate(-17 55 70)" fill="url(#potato)"/>
+    <ellipse cx="103" cy="70" rx="35" ry="24" transform="rotate(13 103 70)" fill="#C59A61"/>
+    <ellipse cx="81" cy="42" rx="25" ry="17" transform="rotate(-8 81 42)" fill="#D8B77D"/>
+    <g fill="#815C3D" opacity=".65"><ellipse cx="44" cy="66" rx="2.5" ry="1.8"/><ellipse cx="65" cy="79" rx="2" ry="1.5"/><ellipse cx="96" cy="62" rx="2.3" ry="1.7"/><ellipse cx="114" cy="78" rx="2" ry="1.5"/><ellipse cx="76" cy="40" rx="2" ry="1.5"/><ellipse cx="91" cy="47" rx="2" ry="1.4"/></g>
+    <path d="M35 60c8-10 18-14 28-14M86 63c8-7 17-9 26-7" fill="none" stroke="#E9D2A4" stroke-linecap="round" stroke-width="3" opacity=".65"/>
+  </symbol>
+
+  <symbol id="chili-peppers" viewBox="0 0 160 120">
+    <path d="M54 29c7 14 9 32 26 42 13 8 30 7 44 2-6 18-24 32-43 29-24-3-39-25-41-48-1-12 3-20 14-25z" fill="url(#red)"/>
+    <path d="M52 29c-2-9 2-15 12-18 1 7-2 13-8 18" fill="#4A8053" stroke="#356844" stroke-width="3" stroke-linecap="round"/>
+    <path d="M101 27c-3 17 0 34 13 45 10 9 23 11 34 8-10 15-28 23-43 16-18-9-24-33-19-56 2-8 7-12 15-13z" fill="#D94E43"/>
+    <path d="M101 27c-1-8 3-13 11-15 1 6-2 11-8 15" fill="#4A8053" stroke="#356844" stroke-width="3" stroke-linecap="round"/>
+    <path d="M59 40c3 14 10 25 20 32M106 39c1 12 5 22 13 30" fill="none" stroke="#FFAA88" stroke-linecap="round" stroke-width="3" opacity=".75"/>
+  </symbol>
+
+  <symbol id="radishes" viewBox="0 0 160 120">
+    <path d="M61 44c-12-17-17-25-14-36 11 7 18 16 20 30M76 39c-3-19 1-30 12-37 5 14 4 26-2 39M87 44c9-19 20-27 32-28-5 14-14 25-29 34" fill="url(#leaf)" stroke="#4E8255" stroke-linecap="round" stroke-width="3"/>
+    <path d="M48 51c4-15 17-22 31-18 15 4 22 18 17 33-4 12-16 23-26 34-7-12-18-23-22-35-2-5-2-10 0-14z" fill="url(#red)"/>
+    <path d="M91 55c4-13 17-19 29-14 13 5 17 18 11 30-5 10-15 18-23 28-6-10-15-20-18-31-1-4-1-9 1-13z" fill="#DB6552"/>
+    <path d="M70 93l-3 16 8-9M110 92l-2 15 8-9" fill="none" stroke="#F2E6CB" stroke-linecap="round" stroke-width="4"/>
+    <path d="M55 54c4-7 10-10 17-10M99 57c4-6 9-8 15-8" fill="none" stroke="#FFB19A" stroke-linecap="round" stroke-width="3" opacity=".75"/>
+  </symbol>
+
+  <symbol id="asparagus" viewBox="0 0 160 120">
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M43 103 51 25c1-10 13-10 14 0l7 78" fill="url(#leaf)" stroke="#47784D" stroke-width="3"/>
+      <path d="M64 104 76 17c1-10 14-10 15 0l4 87" fill="url(#leafLight)" stroke="#547F50" stroke-width="3"/>
+      <path d="M89 103 101 29c2-10 14-9 15 1l4 73" fill="#4D8757" stroke="#3E7048" stroke-width="3"/>
+      <path d="M48 39l9 5M46 55l13 4M44 73l15 4M73 35l12 5M70 53l16 5M68 72l18 5M98 47l12 4M95 66l15 4" fill="none" stroke="#B6D18C" stroke-width="3" opacity=".8"/>
+    </g>
+    <path d="M49 23c0-9 3-16 9-21 7 7 9 14 7 22M75 16c1-8 4-13 9-17 7 6 9 12 7 19M101 28c1-8 4-13 9-17 6 6 8 12 6 19" fill="#75A965" stroke="#47784D" stroke-width="2"/>
+  </symbol>
+
+  <symbol id="baby-corn" viewBox="0 0 160 120">
+    <path d="M52 92c-11-19-13-42-3-61 11 13 18 29 20 47M110 90c12-19 14-39 7-56-12 12-20 26-23 44" fill="url(#leaf)" stroke="#4B7C4E" stroke-width="3" stroke-linejoin="round"/>
+    <g transform="rotate(-18 75 65)">
+      <rect x="59" y="29" width="30" height="70" rx="15" fill="url(#gold)" stroke="#C8943C" stroke-width="3"/>
+      <path d="M65 38v51M73 34v58M81 38v51" stroke="#F8E8A7" stroke-width="2" opacity=".8"/>
+      <path d="M60 47h28M59 59h30M60 72h28M62 84h23" stroke="#D6A64C" stroke-width="1.5" opacity=".65"/>
+    </g>
+    <path d="M58 94c-8 7-15 10-24 10 4-10 11-17 21-21M98 94c8 7 15 10 24 9-4-10-11-16-21-20" fill="#8BAE60" stroke="#4B7C4E" stroke-width="3" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol id="mini-bell-peppers" viewBox="0 0 160 120">
+    <path d="M43 45c0-11 8-19 18-19 7 0 12 4 15 9 4-5 9-8 15-7 11 1 17 10 15 21l-5 36c-2 13-12 22-25 22-15 0-25-11-25-25z" fill="url(#red)" stroke="#B64B3D" stroke-width="3"/>
+    <path d="M83 42c-1-9 3-15 12-17 1 6-2 12-8 16" fill="#4D8150" stroke="#356844" stroke-width="3" stroke-linecap="round"/>
+    <path d="M91 50c-2-10 4-18 14-19 8-1 14 4 17 10 4-5 10-7 16-4 10 4 13 14 8 24l-13 28c-5 11-17 17-29 12-14-5-20-19-15-33z" fill="url(#gold)" stroke="#CB9D46" stroke-width="3"/>
+    <path d="M119 39c0-8 4-13 12-14 1 6-2 10-8 14" fill="#4D8150" stroke="#356844" stroke-width="3" stroke-linecap="round"/>
+    <path d="M52 49c3-7 8-10 14-10M103 54c4-8 10-11 17-10" fill="none" stroke="#FFD1A0" stroke-linecap="round" stroke-width="3" opacity=".75"/>
+  </symbol>
+
+  <symbol id="broccolini" viewBox="0 0 160 120">
+    <path d="M53 105c8-27 11-49 12-70M78 107c2-29 2-52 1-75M102 105c-5-26-7-47-7-67" fill="none" stroke="#67945A" stroke-linecap="round" stroke-width="9"/>
+    <path d="M60 68c-15-12-25-13-34-7 9 13 20 19 33 18M99 77c14-13 25-15 35-9-8 14-20 20-34 20" fill="url(#leafLight)" stroke="#548254" stroke-width="3" stroke-linejoin="round"/>
+    <g fill="#4D8152" stroke="#3E7048" stroke-width="2">
+      <circle cx="47" cy="29" r="16"/><circle cx="64" cy="23" r="17"/><circle cx="79" cy="28" r="16"/>
+      <circle cx="96" cy="33" r="15"/><circle cx="112" cy="27" r="15"/>
+    </g>
+    <g fill="#83AD69"><circle cx="42" cy="25" r="5"/><circle cx="61" cy="17" r="5"/><circle cx="77" cy="23" r="5"/><circle cx="98" cy="27" r="4"/><circle cx="112" cy="22" r="4"/></g>
+  </symbol>
+
+  <symbol id="snow-peas" viewBox="0 0 160 120">
+    <g fill="url(#leafLight)" stroke="#4C8053" stroke-width="3" stroke-linejoin="round">
+      <path d="M26 42c20-17 54-17 76 1-18 21-51 27-74 14-7-4-8-10-2-15z"/>
+      <path d="M46 76c20-16 54-15 76 3-19 20-52 25-74 11-7-4-8-10-2-14z"/>
+      <path d="M70 32c18-13 43-12 60 4-16 17-40 20-58 9-6-4-7-9-2-13z" fill="#6B9C5F"/>
+    </g>
+    <g fill="#D2E6A6" opacity=".9">
+      <circle cx="45" cy="47" r="5"/><circle cx="63" cy="43" r="5"/><circle cx="81" cy="47" r="5"/>
+      <circle cx="65" cy="81" r="5"/><circle cx="84" cy="77" r="5"/><circle cx="102" cy="82" r="5"/>
+      <circle cx="92" cy="38" r="4"/><circle cx="108" cy="39" r="4"/>
+    </g>
+    <path d="M27 43c21-17 52-17 73 0M47 77c20-16 51-15 72 3" fill="none" stroke="#D1E6A6" stroke-linecap="round" stroke-width="2" opacity=".8"/>
+  </symbol>
+</svg>
